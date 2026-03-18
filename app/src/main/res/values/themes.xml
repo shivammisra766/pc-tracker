@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="Theme.PCTracker" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowBackground">#050505</item>
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorSurface">#121212</item>
+    </style>
+
+</resources>

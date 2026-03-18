@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PCTracker</string>
+    <string name="current_app">Current App</string>
+    <string name="window_title">Window Title</string>
+    <string name="placeholder">—</string>
+</resources>

@@ -1,0 +1,96 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# =========================
+# Android / Gradle
+# =========================
+.gradle/
+build/
+*/build/
+local.properties
+.gradle
+
+# Gradle wrapper logs
+gradle-app.setting
+
+# =========================
+# Android Studio / IntelliJ
+# =========================
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Android Studio generated
+captures/
+.externalNativeBuild/
+.cxx/
+
+# =========================
+# Logs
+# =========================
+*.log
+.kotlin/errors/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# APK / build outputs
+# =========================
+*.apk
+*.aab
+
+# =========================
+# Keystore / signing files
+# =========================
+*.jks
+*.keystore
+
+# =========================
+# Google / Firebase secrets
+# =========================
+google-services.json
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.swp
+*~
+
+# =========================
+# Test results
+# =========================
+test-output/
+
+# =========================
+# Android Studio Cache
+# =========================
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# =========================
+# Build outputs
+# =========================
+app/release/
+app/debug/
